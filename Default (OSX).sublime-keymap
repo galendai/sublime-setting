@@ -1,0 +1,26 @@
+[
+  {
+    "keys": [
+      "ctrl+t"
+    ],
+    "command": "toggle_setting",
+    "args": {
+      "setting": "vintage_lines.force_mode"
+    }
+  },
+  {
+    "keys": [
+      "ctrl+shift+t"
+    ],
+    "command": "delete_trailing_spaces"
+  },
+  {
+    "keys": [
+      "super+shift+w"
+    ],
+    "command": "insert_snippet",
+    "args": {
+      "name": "Packages/XML/Snippets/long-tag.sublime-snippet"
+    }
+  }
+]

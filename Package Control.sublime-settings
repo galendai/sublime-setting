@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"auto-save",
+		"Babel",
+		"Babel Snippets",
+		"C# Compile & Run",
+		"C# Snippets",
+		"ColorPicker",
+		"Diffy",
+		"Emmet",
+		"EncodingHelper",
+		"ES6-Toolkit",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSONLint",
+		"JSX",
+		"Kulture",
+		"LESS",
+		"Material Theme",
+		"OmniSharp",
+		"Package Control",
+		"Pretty JSON",
+		"React ES6 Snippets",
+		"React Templates",
+		"react-native-snippets",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SublimeLinter-jsxhint",
+		"Tag",
+		"TrailingSpaces",
+		"TypeScript",
+		"TypeSnippets",
+		"View In Browser",
+		"VintageLines",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
